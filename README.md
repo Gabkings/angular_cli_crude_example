@@ -3,7 +3,7 @@
 Live Version [Angular Rest](https://m-city-cece3.web.app/home).
 
 ## Main Features
-How to create a fake and complete working JSON REST API,
+* How to create a fake and complete working JSON REST API,
 * Setting up Angular Material and style your application with Material Design,
 * Creating Angular components, routing and navigation between them,
 * Creating and injecting Angular services,
