@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "m-city-cece3": {
+      "hosting": {
+        "angular-example": [
+          "m-city-cece3"
+        ]
+      }
+    }
+  }
+}
