@@ -4,17 +4,17 @@ Live Version [Angular Rest](https://m-city-cece3.web.app/home).
 
 ## Main Features
 How to create a fake and complete working JSON REST API,
-• Setting up Angular Material and style your application with Material Design,
-• Creating Angular components, routing and navigation between them,
-• Creating and injecting Angular services,
-• Sending HTTP GET requests to servers using HttpClient,
-• Using the HttpParams class to add URL query strings in your HttpRequest,
-• Subscribing and unsubscribing from RxJS Observables returned by HttpClient,
-• Handling HTTP errors using the throwError() and catchError() operators,
-• Retrying failed HTTP requests using the RxJS retry() operator,
-• Unsubscribe from RxJS Observables returned from HttpClient methods using the
+* Setting up Angular Material and style your application with Material Design,
+* Creating Angular components, routing and navigation between them,
+* Creating and injecting Angular services,
+* Sending HTTP GET requests to servers using HttpClient,
+* Using the HttpParams class to add URL query strings in your HttpRequest,
+* Subscribing and unsubscribing from RxJS Observables returned by HttpClient,
+* Handling HTTP errors using the throwError() and catchError() operators,
+* Retrying failed HTTP requests using the RxJS retry() operator,
+* Unsubscribe from RxJS Observables returned from HttpClient methods using the
 takeUntil() operator when requests are concelled,
-• Deploying application to Firebase hosting using the new
+* Deploying application to Firebase hosting using the new
 ng deploy command available from Angular 8.3+
 
 ## Development server
